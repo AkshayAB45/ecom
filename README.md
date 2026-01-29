@@ -1,2 +1,2 @@
 # ecom
-commerece
+commerece INVENTORY MANAGEMENT SYSTEM
